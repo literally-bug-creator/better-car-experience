@@ -1,6 +1,6 @@
-# 🚗 AdvancedVehicleLogic Plugin
+# 🚗 BetterCarExperience Plugin
 
-**AdvancedVehicleLogic** is a plugin for **Unturned** that overrides the default behavior of entering and exiting vehicles. The plugin intelligently places players into the closest available seat when entering a vehicle and restricts exiting or switching seats when the vehicle is moving at high speeds.
+**BetterCarExperience** is a plugin for **Unturned** that overrides the default behavior of entering and exiting vehicles. The plugin intelligently places players into the closest available seat when entering a vehicle and restricts exiting or switching seats when the vehicle is moving at high speeds.
 
 ## 🛠️ Features
 
